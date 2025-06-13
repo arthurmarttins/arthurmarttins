@@ -1,6 +1,6 @@
 # Olá, eu sou o Arthur Martins! 👋
 
-### Analista de Dados | ]Desenvolvedor Web & Mobile 
+### Analista de Dados | Desenvolvedor Web & Mobile 
 
 Sou um desenvolvedor e futuro analista de dados apaixonado por tecnologia, educação e empreendedorismo. Atualmente, estou no último ano do Bacharelado em Sistemas de Informação na UESB e divido minha atuação em duas frentes incríveis: como **Estagiário de Desenvolvimento de Software** no CPDS e como **Residente e Scrum Master** em um projeto de startup no CEPEDI.
 
@@ -60,7 +60,7 @@ Estas são as tecnologias que utilizo no meu dia a dia:
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 Minhas Estatísticas no GitHub (Estou iniciando)
 
 ![Estatísticas do GitHub de Arthur](https://github-readme-stats.vercel.app/api?username=arthurmarttins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 ![Linguagens Mais Usadas por Arthur](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmarttins&layout=compact&langs_count=7&theme=dracula)
