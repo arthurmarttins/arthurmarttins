@@ -37,19 +37,30 @@ Estas são as tecnologias que utilizo no meu dia a dia:
 
 ---
 
+### 💼 Experiência Profissional
+
+-   **Estágio em Desenvolvimento de Software** | [cite_start]Centro de Pesquisa e Desenvolvimento de Software 
+    -   [cite_start]*junho de 2025 - Presente* 
+
+-   **Residente em Ciência de Dados & Scrum Master** | [cite_start]CEPEDI 
+    -   [cite_start]*janeiro de 2025 - Presente* 
+    -   [cite_start]Atuação como Scrum Master no projeto de criação de uma startup, liderando o desenvolvimento do produto e o modelo de negócios, além de atuar como analista de dados da equipe. 
+
+-   **Auxiliar Administrativo** | [cite_start]Farmácia Preço Popular - FPP 
+    -   [cite_start]*maio de 2022 - maio de 2023* 
+
+### 🎓 Formação Acadêmica
+
+-   **Bacharelado em Sistemas de Informação** | [cite_start]UESB 
+    -   [cite_start]*dezembro de 2021 - dezembro de 2025* 
+
+-   **Residência em Ciência de Dados e Empreendedorismo** | [cite_start]CEPEDI 
+    -   [cite_start]*julho de 2024 - dezembro de 2024* 
+
+
+---
+
 ### 📊 Minhas Estatísticas no GitHub
 
 ![Estatísticas do GitHub de Arthur](https://github-readme-stats.vercel.app/api?username=arthurmarttins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 ![Linguagens Mais Usadas por Arthur](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmarttins&layout=compact&langs_count=7&theme=dracula)
-
-<br>
-
-![Snake animation](https://github.com/arthurmarttins/arthurmarttins/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 🚀 Meus Principais Projetos
-
-- Repository 1
-- Repository 2
-- Repository 3
