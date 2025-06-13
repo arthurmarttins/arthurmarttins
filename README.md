@@ -39,23 +39,23 @@ Estas são as tecnologias que utilizo no meu dia a dia:
 
 ### 💼 Experiência Profissional
 
--   **Estágio em Desenvolvimento de Software** | [cite_start]Centro de Pesquisa e Desenvolvimento de Software 
-    -   [cite_start]*junho de 2025 - Presente* 
+-   **Estágio em Desenvolvimento de Software** | Centro de Pesquisa e Desenvolvimento de Software 
+    -   Junho de 2025 - Presente 
+    -   Atuação como desenvolvedor mobile
 
--   **Residente em Ciência de Dados & Scrum Master** | [cite_start]CEPEDI 
-    -   [cite_start]*janeiro de 2025 - Presente* 
-    -   [cite_start]Atuação como Scrum Master no projeto de criação de uma startup, liderando o desenvolvimento do produto e o modelo de negócios, além de atuar como analista de dados da equipe. 
+-   **Residente em Ciência de Dados & Scrum Master** | CEPEDI 
+    -   Janeiro de 2025 - Presente 
+    -   Atuação como Scrum Master no projeto de criação de uma startup, liderando o desenvolvimento do produto e o modelo de negócios, além de atuar como analista de dados da equipe. 
 
--   **Auxiliar Administrativo** | [cite_start]Farmácia Preço Popular - FPP 
-    -   [cite_start]*maio de 2022 - maio de 2023* 
+---    
 
 ### 🎓 Formação Acadêmica
 
--   **Bacharelado em Sistemas de Informação** | [cite_start]UESB 
-    -   [cite_start]*dezembro de 2021 - dezembro de 2025* 
+-   **Bacharelado em Sistemas de Informação** | UESB 
+    -   Dezembro de 2021 - Dezembro de 2025* 
 
--   **Residência em Ciência de Dados e Empreendedorismo** | [cite_start]CEPEDI 
-    -   [cite_start]*julho de 2024 - dezembro de 2024* 
+-   **Residência em Ciência de Dados e Empreendedorismo** | CEPEDI 
+    -   Julho de 2024 - Dezembro de 2024
 
 
 ---
