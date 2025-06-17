@@ -61,6 +61,19 @@ Estas são as tecnologias que utilizo no meu dia a dia:
 ---
 
 ### 📊 Minhas Estatísticas no GitHub (Estou iniciando)
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 5px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvsantos1&theme=algolia&layout=compact&custom_title=Tecnologias&langs_conunt=9"
+  />
 
-![Estatísticas do GitHub de Arthur](https://github-readme-stats.vercel.app/api?username=arthurmarttins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Linguagens Mais Usadas por Arthur](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmarttins&layout=compact&langs_count=7&theme=dracula)
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    width="350"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=jvsantos1&theme=algolia&locale=pt-br" 
+  />  
+</p>
