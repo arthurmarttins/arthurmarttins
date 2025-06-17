@@ -67,13 +67,13 @@ Estas são as tecnologias que utilizo no meu dia a dia:
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 5px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvsantos1&theme=algolia&layout=compact&custom_title=Tecnologias&langs_conunt=9"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmarttins&theme=algolia&layout=compact&custom_title=Tecnologias&langs_conunt=9"
   />
 
   <img 
     align="left" 
     alt="GitHub Stats" 
     width="350"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=jvsantos1&theme=algolia&locale=pt-br" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=arthurmarttins&theme=algolia&locale=pt-br" 
   />  
 </p>
