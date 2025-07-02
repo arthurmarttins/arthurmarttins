@@ -4,7 +4,7 @@
 
 Sou um desenvolvedor e futuro analista de dados apaixonado por tecnologia, educação e empreendedorismo. Atualmente, estou no último ano do Bacharelado em Sistemas de Informação na UESB e divido minha atuação em duas frentes: como **Estagiário de Desenvolvimento de Software** no CPDS e como **Residente e Scrum Master** em um projeto de startup no CEPEDI.
 
-Meu objetivo é me especializar cada vez mais no desenvolvimento Front-end (Web e Mobile) e em Análise de Dados, unindo o melhor dos dois mundos para criar soluções de impacto.
+Meu objetivo é me especializar cada vez mais no desenvolvimento Web e Mobile e em Análise de Dados, unindo o melhor dos dois mundos para criar soluções de impacto.
 
 ---
 
