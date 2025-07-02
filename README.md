@@ -45,7 +45,7 @@ Estas são as tecnologias que utilizo no meu dia a dia:
 
 -   **Residente em Ciência de Dados & Scrum Master** | CEPEDI 
     -   Janeiro de 2025 - Presente 
-    -   Atuação como Scrum Master no projeto de criação de uma startup, liderando o desenvolvimento do produto e o modelo de negócios, além de atuar como analista de dados da equipe. 
+    -   Atuação como Scrum Master no projeto de criação de uma startup, liderando o desenvolvimento do produto e o modelo de negócios, além de atuar como desenvolvedor Web da equipe.
 
 ---    
 
