@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Arthur Martins!
+# Olá, eu sou o Arthur Martins!
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
@@ -23,17 +23,11 @@
 ---
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthurmarttins/arthurmarttins/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthurmarttins/arthurmarttins/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arthurmarttins/arthurmarttins/output/pacman-contribution-graph.svg">
-</picture>
-
+<img src="https://metrics.lecoq.io/arthurmarttins?template=classic&base.activity.days=365&base.activity.limit=5&base.hireable=true&config.octicon=true&config.theme=gruvbox_dark" alt="Métricas e Contribuições de arthurmarttins" />
 ---
 
-## ⭐ GitHub Stats
+## GitHub Stats
 <a href="https://github.com/arthurmarttins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurmarttins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmarttins&layout=compact&langs_count=7&theme=dracula"/>
 </a>
 
