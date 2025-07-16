@@ -15,37 +15,25 @@
 
 <p align="left">
   <a href="mailto:arthurlagomarttins@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/arthur-martins-510b36235/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/arthurmarttins_/" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
 ---
-<br>
-
-<img src="https://metrics.lecoq.io/arthurmarttins?template=classic&base.activity.days=365&base.activity.limit=5&base.hireable=true&config.octicon=true&config.theme=gruvbox_dark" alt="Métricas e Contribuições de arthurmarttins" />
----
-
-## GitHub Stats
-<a href="https://github.com/arthurmarttins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmarttins&layout=compact&langs_count=7&theme=dracula"/>
-</a>
 
 ## Tecnologias e Linguagens 💻
+
+#### 🚀 Desenvolvimento Web & Mobile
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,sql" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express" />
   </a>
 </p>
 
-### 🚀 Desenvolvimento Web & Mobile
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
-  </a>
-</p>
-
-### 📊 Análise de Dados & BI
+#### 📊 Análise de Dados & BI
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,mysql,postgres" />
@@ -54,14 +42,14 @@
 </p>
 
 
-### 🛠️ Ferramentas
+#### 🛠️ Ferramentas
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker" />
   </a>
 </p>
 
-
+---
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=arthurmarttins.arthurmarttins&left_color=007acc&right_color=555" width="100" />
