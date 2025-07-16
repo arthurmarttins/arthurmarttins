@@ -1,31 +1,24 @@
-name: Generate Contribution Pac-Man
+name: Teste de Workflow Básico
 
 on:
-  schedule:
-    - cron: "0 0 * * *" # Roda diariamente
   workflow_dispatch: # Permite rodar manualmente
 
 jobs:
-  generate-graph:
+  test-commit-job:
     runs-on: ubuntu-latest
-    # As permissões precisam estar definidas aqui para a automação poder escrever no repositório
     permissions:
-      contents: write
-
+      contents: write # Permissão para escrever no repositório
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout do código
+        uses: actions/checkout@v3
 
-      # Esta é a nova automação que está funcionando
-      - uses: VENOXV7/pacman-contribution-graph@v1.0.3
-        with:
-          user_name: arthurmarttins
-          output_dir: output # O nome da pasta onde o gráfico será salvo
+      - name: Criar um arquivo de teste
+        run: echo "Workflow de teste executado com sucesso em $(date)" > teste.txt
 
-      # Este passo salva a imagem gerada de volta no seu repositório
-      - name: Commit & Push
+      - name: Fazer o commit do arquivo de teste
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
-          git add output
-          git commit -m "chore: update pacman contribution graph" || exit 0
+          git add teste.txt
+          git commit -m "CI: Adiciona arquivo de teste" || exit 0
           git push
