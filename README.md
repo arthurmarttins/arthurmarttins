@@ -2,9 +2,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou apaixonado por tecnologia e empreendedorismo, atualmente no <strong>último ano de Sistemas de Informação</strong> na UESB. <br><br>
-  Atuo como <strong>Estagiário de Desenvolvimento Mobile</strong> no CPDS e como <strong>Residente e Scrum Master</strong> no CEPEDI, onde lidero o desenvolvimento de uma startup. Minha rotina é um equilíbrio entre o desenvolvimento de software e a criação de modelos de negócio inovadores. <br><br>
-  Meu foco é unir <strong>Desenvolvimento Web/Mobile</strong> com <strong>Análise de Dados</strong>, utilizando tecnologias como <strong>React, React Native e Node.js</strong> para criar aplicações e <strong>Python, SQL e Power BI</strong> para extrair insights valiosos dos dados.
+  Atuo como <strong>Estagiário de Desenvolvimento Mobile</strong> no CPDS e como <strong> Scrum Master e Desenvolvedor web Full-Ftack</strong> no CEPEDI, onde faço residência.  <br><br>
+  Meu foco é unir <strong>Desenvolvimento Web/Mobile</strong> com <strong>Análise de Dados</strong>, utilizando tecnologias como <strong>React, React Native e Node.js</strong> para criar aplicações e <strong>Python, SQL e Power BI</strong> para extrair insights valiosos dos dados.<br><br>
+  Atualmente no <strong>último ano de Sistemas de Informação</strong> na UESB e fazendo residência no CEPEDI 
 </p>
 
 <br>
