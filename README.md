@@ -1,61 +1,84 @@
-# Olá, eu sou o Arthur Martins! 👋
+# 👋 Olá, eu sou o Arthur Martins!
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-### Analista de Dados | Desenvolvedor Web & Mobile 
+<p align="left"> 
+  Sou apaixonado por tecnologia e empreendedorismo, atualmente no <strong>último ano de Sistemas de Informação</strong> na UESB. <br><br>
+  Atuo como <strong>Estagiário de Desenvolvimento Mobile</strong> no CPDS e como <strong>Residente e Scrum Master</strong> no CEPEDI, onde lidero o desenvolvimento de uma startup. Minha rotina é um equilíbrio entre o desenvolvimento de software e a criação de modelos de negócio inovadores. <br><br>
+  Meu foco é unir <strong>Desenvolvimento Web/Mobile</strong> com <strong>Análise de Dados</strong>, utilizando tecnologias como <strong>React, React Native e Node.js</strong> para criar aplicações e <strong>Python, SQL e Power BI</strong> para extrair insights valiosos dos dados.
+</p>
 
-Sou um desenvolvedor e futuro analista de dados apaixonado por tecnologia, educação e empreendedorismo. Atualmente, estou no último ano do Bacharelado em Sistemas de Informação na UESB e divido minha atuação em duas frentes: como **Estagiário de Desenvolvimento de Software** no CPDS e como **Residente e Scrum Master** em um projeto de startup no CEPEDI.
+<br>
 
-Meu objetivo é me especializar cada vez mais no desenvolvimento Web e Mobile e em Análise de Dados, unindo o melhor dos dois mundos para criar soluções de impacto.
+<p align="left">
+  Vamos nos conectar? Me envie um e-mail ou me siga no LinkedIn! 📬
+</p>
+
+<p align="left">
+  <a href="mailto:arthurlagomarttins@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/arthur-martins-510b36235/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+---
+<br>
+
+<img src="https://github-readme-contribution-graph.vercel.app/graph?user=arthurmarttins&theme=dracula" alt="github contribution graph">
 
 ---
 
-### 📫 Como me encontrar:
+## ⭐ GitHub Stats
+<a href="https://github.com/arthurmarttins">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurmarttins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurmarttins&layout=compact&langs_count=7&theme=dracula"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-martins-510b36235)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurlagomarttins@gmail.com)
+## Tecnologias e Linguagens 💻
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,sql" />
+  </a>
+</p>
 
----
+### 🚀 Desenvolvimento Web & Mobile
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
+  </a>
+</p>
 
-### 🛠️ Stacks & Ferramentas
+### 📊 Análise de Dados & BI
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,mysql,postgres" />
+  </a>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
 
-Estas são as tecnologias que utilizo no meu dia a dia:
 
-#### **Desenvolvimento Web & Mobile**
-![React](https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+### 🛠️ Ferramentas
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker" />
+  </a>
+</p>
 
-#### **Análise de Dados & BI**
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
----
 
-### 💼 Experiência Profissional
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=arthurmarttins.arthurmarttins&left_color=007acc&right_color=555" width="100" />
+</div>
 
--   **Estágio em Desenvolvimento de Software** | Centro de Pesquisa e Desenvolvimento de Software 
-    -   Junho de 2025 - Presente 
-    -   Atuação como desenvolvedor mobile
+<div align="center">
+  
+  [![Arthur Martins's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arthurmarttins&bg_color=0d1117&color=87ceeb&line=007acc&point=007acc&area=true&area_color=0d1117&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
--   **Residente em Ciência de Dados & Scrum Master** | CEPEDI 
-    -   Janeiro de 2025 - Presente 
-    -   Atuação como Scrum Master no projeto de criação de uma startup, liderando o desenvolvimento do produto e o modelo de negócios, além de atuar como desenvolvedor Web da equipe.
+  <img src="https://github-profile-trophy.vercel.app?username=arthurmarttins&theme=dracula&column=7&margin-w=15&margin-h=15&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
+</div>
 
----    
 
-### 🎓 Formação Acadêmica
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:007acc,100:0d1117"/>
 
--   **Bacharelado em Sistemas de Informação** | UESB 
-    -   Dezembro de 2021 - Dezembro de 2025* 
-
--   **Residência em Ciência de Dados e Empreendedorismo** | CEPEDI 
-    -   Julho de 2024 - Dezembro de 2024
 
 
 
