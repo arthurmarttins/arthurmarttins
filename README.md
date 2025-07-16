@@ -23,7 +23,11 @@
 ---
 <br>
 
-<img src="https://github-readme-contribution-graph.vercel.app/graph?user=arthurmarttins&theme=dracula" alt="github contribution graph">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arthurmarttins/arthurmarttins/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arthurmarttins/arthurmarttins/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/arthurmarttins/arthurmarttins/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
