@@ -11,7 +11,7 @@ jobs:
     name: generate-pacman-graph
     steps:
       - uses: actions/checkout@v3
-      - uses: JieDoctor/github-readme-contribution-graph-action@v1
+      - uses: JieDoctor/github-readme-contribution-graph-action@main # <-- A CORREÇÃO ESTÁ AQUI
         with:
           user_name: arthurmarttins
           output_dir: output # Nome da pasta onde a imagem será salva
